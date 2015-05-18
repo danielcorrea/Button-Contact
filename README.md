@@ -1,4 +1,4 @@
-# plg_editors-xtd_contact
+# Free Editor Contact Button
 
 Displays a button to make it possible to insert links to Contacts into an Article. 
 Displays a popup allowing you to choose the contact.
